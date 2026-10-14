@@ -1,6 +1,6 @@
 # para baixar o aplicativo clique abaixo ou procure a versão desejada:
 
-[Tremis v1 alfa](https://github.com/Kert-S2/Tremis-tremida-/raw/refs/heads/main/tremis.zip)
+[Tremis v1 alfa](https://github.com/Kert-S2/Tremis-tremida-/raw/refs/heads/main/tremisv1.zip)
 
 
 # Como Baixar e instalar
